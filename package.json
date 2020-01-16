@@ -23,7 +23,7 @@
 		"@babel/preset-env": "^7.6.2",
 		"@commitlint/cli": "^8.2.0",
 		"@commitlint/config-conventional": "^8.2.0",
-		"@storybook/html": "^5.2.1",
+		"@storybook/html": "^5.3.4",
 		"babel-loader": "^8.0.6",
 		"commitizen": "^4.0.3",
 		"cz-lerna-changelog": "^2.0.2",
